@@ -4,8 +4,9 @@
 
 ### Metrópolis
 
-Lançado em 1927, Metropolis é um filme alemão e um dos maiores clássicos do cinema mundial. A história se passa no futuro de 2026, em um ambiente governado por ricos investidores do mundo industrial — que vivem em prédios gigantes. Abaixo deles, os trabalhadores são obrigados a viver em ambientes subterrâneos para que não atrapalhem a vida da alta classe.
+Lançado em 1927, Metrópolis é um filme alemão e um dos maiores clássicos do cinema mundial. A história se passa no futuro de 2026, em um ambiente governado por ricos investidores do mundo industrial — que vivem em prédios gigantes. Abaixo deles, os trabalhadores são obrigados a viver em ambientes subterrâneos para que não atrapalhem a vida da alta classe.
 ![Metrópolis](/img/metropolis.jpg)
+
 ### O Dia em que a Terra Parou
 
 Na década de 1950, no auge da Guerra Fria, os humanos de todo o mundo viviam sob a ameaça de um novo conflito capaz de destruir a Terra. Pois isso também estaria incomodando os líderes de outros planetas, que enviaram o viajante Klaatu para que ele trouxesse a mensagem de que a Terra deveria se tornar pacífica; caso contrário, os planetas se juntariam para nos destruir.
